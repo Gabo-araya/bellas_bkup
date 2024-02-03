@@ -1,0 +1,18 @@
+
+#Impedir acceso a *.txt
+<Files ~ "/.txt$">
+Order allow,deny
+Deny from all
+</Files>
+
+#Impedir acceso a *.log
+<Files ~ "/.log$">
+Order allow,deny
+Deny from all
+</Files>
+
+#Impedir acceso a robots.txt
+<Files /robots.txt>
+Order allow,deny
+Deny from all
+</Files>

@@ -1,0 +1,7 @@
+[Tue, 09 Dec 2008 12:25:52 -0300] | servicios.php [Linea:20] | Error 8: Undefined variable: url_thumbs_folder
+[Tue, 09 Dec 2008 12:26:10 -0300] | servicios.php [Linea:20] | Error 8: Undefined variable: url_thumbs_folder
+[Tue, 09 Dec 2008 12:26:16 -0300] | servicios.php [Linea:20] | Error 8: Undefined variable: url_thumbs_folder
+[Tue, 09 Dec 2008 12:47:55 -0300] | servicios.php [Linea:946] | Error 8: Undefined variable: prod_imagen
+[Tue, 09 Dec 2008 12:47:55 -0300] | servicios.php [Linea:946] | Error 8: Undefined variable: prod_nombre
+[Tue, 09 Dec 2008 12:47:55 -0300] | servicios.php [Linea:947] | Error 8: Undefined variable: prod_imagen
+[Tue, 09 Dec 2008 12:47:55 -0300] | servicios.php [Linea:947] | Error 8: Undefined variable: prod_nombre
